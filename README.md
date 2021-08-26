@@ -1,8 +1,8 @@
-<h1 align="right">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou o Afio Vinícius</h1>
+<h1 align="center">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou o Afio Vinícius</h1>
 
-<div align="left"> 
-  <img height="20rem" src="https://c.tenor.com/2Wu29iaHSYYAAAAj/coffee-lover-hot-coffee.gif" alt="coffee gif" />
-  <p> <img src="https://komarev.com/ghpvc/?username=afiovinicius" alt="afiovinicius" /> </p>
+<div> 
+  <img align="left" height="20rem" src="https://c.tenor.com/2Wu29iaHSYYAAAAj/coffee-lover-hot-coffee.gif" alt="coffee gif" />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiovinicius" alt="afiovinicius" /> </p>
 </div>
 
 - 🔭 Hoje trabalho como Front-End e Web Designer
