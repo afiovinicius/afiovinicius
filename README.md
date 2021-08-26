@@ -1,4 +1,8 @@
-<h1 align="center">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou o Afio Vinícius</h1>
+<div>
+  <img align="left" height="20rem" src="https://c.tenor.com/2Wu29iaHSYYAAAAj/coffee-lover-hot-coffee.gif" alt="coffee gif" />
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiovinicius" alt="afiovinicius" /> </p>
+  <h1 align="center">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou o Afio Vinícius</h1>
+</div>
 
 - 🔭 Hoje trabalho como Front-End e Web Designer
 - ⚡ Estudando Javascript...
@@ -11,8 +15,6 @@
 
 <div>
   <a href="https://github.com/afiovinicius">
-   <img align="left" height="20rem" src="https://c.tenor.com/2Wu29iaHSYYAAAAj/coffee-lover-hot-coffee.gif" alt="coffee gif" />
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiovinicius" alt="afiovinicius" /> </p>
    <div align="center"> 
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=afiovinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiovinicius&layout=compact&langs_count=7&theme=tokyonight"/>
