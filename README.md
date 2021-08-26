@@ -1,7 +1,10 @@
 <h1 align="right">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Eu sou o Afio Vinícius</h1>
 
-<img align="left" height="20rem" src="https://c.tenor.com/2Wu29iaHSYYAAAAj/coffee-lover-hot-coffee.gif" alt="coffee gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afiovinicius" alt="afiovinicius" /> </p>
+<div align="left"> 
+  <img height="20rem" src="https://c.tenor.com/2Wu29iaHSYYAAAAj/coffee-lover-hot-coffee.gif" alt="coffee gif" />
+  <p> <img src="https://komarev.com/ghpvc/?username=afiovinicius" alt="afiovinicius" /> </p>
+</div>
+
 - 🔭 Hoje trabalho como Front-End e Web Designer
 - ⚡ Estudando Javascript...
 
@@ -19,7 +22,7 @@
    </div>
 </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block" align="left">
   <h4>Stack Front-End</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
@@ -32,7 +35,7 @@
 
 ![Snake animation](https://github.com/afiovinicius/afiovinicius/blob/output/github-contribution-grid-snake.svg)
   
-<div style="display: inline_block">
+<div style="display: inline_block" align="left">
   <h4>Siga-me</h4>
   <a href="instagram.com/afiovinicius" target="_blank"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
