@@ -5,8 +5,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiovinicius" alt="afiovinicius" /> </p>
 </div>
 
-- 🔭 Hoje trabalho como Front-End e Web Designer
-- ⚡ Estudando Javascript...
+- 🔭 Hoje trabalho como Tech Lead na Vicit Studio
 
 <br>
 
