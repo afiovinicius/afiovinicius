@@ -5,11 +5,11 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiovinicius" alt="afiovinicius" /> </p>
 </div>
 
-- 🔭 Hoje trabalho como Tech Lead na Vicit Studio
+- 🔭 CEO Vicit
 
 <br>
 
-- Precisando de um freelancer? acesse [meu site](https://www.afiovinicius.com) e conheça mais sobre meu trabalho :) <br> pergunte-me sobre qualquer coisa, fico feliz em ajudar!
+- Acesse [meu perfil](https://www.linkedin.com/in/afiovinicius/) e conheça mais sobre meu trabalho :) <br> pergunte-me sobre qualquer coisa, fico feliz em ajudar!
 
 ##
 
