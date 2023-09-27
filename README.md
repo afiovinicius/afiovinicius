@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/JavaScript-3498DB?style=for-the-badge&logo=javascript&logoColor=white" alt="js" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django" />
+  <img src="https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white" alt="react" />
 </div>
 
 ![Snake animation](https://github.com/afiovinicius/afiovinicius/blob/output/github-contribution-grid-snake.svg)
