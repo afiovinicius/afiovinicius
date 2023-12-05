@@ -16,7 +16,7 @@
 <div>
   <a href="https://github.com/afiovinicius">
    <div align="center"> 
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=afiovinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiovinicius&layout=compact&langs_count=7&theme=tokyonight"/>
    </div>
 </div>
