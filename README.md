@@ -5,8 +5,6 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiovinicius" alt="afiovinicius" /> </p>
 </div>
 
-- 🔭 CEO na [Vicit Studio](https://www.instagram.com/vicitstudio/)
-
 <br>
 
 - Acesse [meu perfil](https://www.linkedin.com/in/afiovinicius/) e conheça mais sobre meu trabalho :) <br> pergunte-me sobre qualquer coisa, fico feliz em ajudar!
